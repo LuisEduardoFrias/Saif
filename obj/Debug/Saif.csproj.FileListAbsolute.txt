@@ -1,0 +1,11 @@
+C:\Users\Luis Eduardo Frias\Documents\GitHub\Saif\Saif\bin\Debug\Saif.exe.config
+C:\Users\Luis Eduardo Frias\Documents\GitHub\Saif\Saif\bin\Debug\Saif.exe
+C:\Users\Luis Eduardo Frias\Documents\GitHub\Saif\Saif\bin\Debug\Saif.pdb
+C:\Users\Luis Eduardo Frias\Documents\GitHub\Saif\Saif\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Luis Eduardo Frias\Documents\GitHub\Saif\Saif\obj\Debug\Saif.csprojAssemblyReference.cache
+C:\Users\Luis Eduardo Frias\Documents\GitHub\Saif\Saif\obj\Debug\Saif.Home.resources
+C:\Users\Luis Eduardo Frias\Documents\GitHub\Saif\Saif\obj\Debug\Saif.Properties.Resources.resources
+C:\Users\Luis Eduardo Frias\Documents\GitHub\Saif\Saif\obj\Debug\Saif.csproj.GenerateResource.cache
+C:\Users\Luis Eduardo Frias\Documents\GitHub\Saif\Saif\obj\Debug\Saif.csproj.CopyComplete
+C:\Users\Luis Eduardo Frias\Documents\GitHub\Saif\Saif\obj\Debug\Saif.exe
+C:\Users\Luis Eduardo Frias\Documents\GitHub\Saif\Saif\obj\Debug\Saif.pdb
